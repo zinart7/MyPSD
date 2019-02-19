@@ -1,0 +1,197 @@
+body{      
+    background-image: url(https://wallpapertag.com/wallpaper/full/4/8/9/404767-wallpaper-space-1920x1200-for-htc.jpg);
+  
+  /* Выравнивание картинки по центру */
+  background-position: center center;
+  
+  background-repeat: no-repeat;
+  
+  background-attachment: fixed;
+  
+  /* Изменение размера картинки, в зависимости от экрана */
+  background-size: cover;
+  
+  background-color: #3D3D3D;
+}
+ 
+.navWrapper{
+    width: 1200px;
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.navSiteHeaders{
+    position: absolute;
+    right: 100px;
+    top: 30px;
+}
+.navGifs{
+    position: absolute;
+    right: 450px;
+    top: 30px;
+}
+.navBanners{
+    position: absolute;
+    left: 400px;
+    top: 30px;
+}
+.navWallpapers{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+.wallPapersWrapper{
+    width:1000px;
+    height:2800px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    /*outline: rgb(147, 181, 224) solid 2px;*/
+}
+.halo{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 0px;
+}
+.wallPaper1{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 600px;
+}
+.wallPaper2{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 1300px;
+}
+.wallPaper3{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 2000px;
+}
+.bannersWrapper{
+    width:1000px;
+    height:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    /*outline: rgb(147, 181, 224) solid 2px;*/
+}
+.banner1{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 50px; left: 0px;
+}
+.banner2{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 50px; right: 0px;
+}
+.banner3{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 300px; left: 0px;
+}
+.banner4{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 300px; right: 0px;
+}
+
+.banner5{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 550px; left: 0px;
+}
+.banner6{
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 550px; right: 0px;
+}
+.gifsWrapper{
+    width:1000px;
+    height:700px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    /*outline: rgb(147, 181, 224) solid 2px;*/
+}
+.gif1{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0px; left: 0px;
+}
+.gif2{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0px; left: 450px;
+}
+.gif3{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0px; right: 0px;
+}
+.gif4{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 200px; left: 0px;
+}
+.gif5{
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 200px; left: 350px;
+}
+.gif6{
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 200px; right: 0px;
+}
+.gif7{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 400px; left: 350px;
+}
+.siteHeadersWrapper{
+    width:1000px;
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    /*outline: rgb(147, 181, 224) solid 2px;*/
+}
+.siteHeader1{
+    width: 1000px;
+    height: 150px;
+    position: absolute;
+    top: 100px; left: 0px;
+}
+.siteHeader2{
+    width: 1000px;
+    height: 150px;
+    position: absolute;
+    top: 350px; left: 0px;
+}
+.telegram{
+    width:50px;
+    height:50px;
+    position: absolute;
+    right: 20px; top: 10px;
+}
